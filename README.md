@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiranga
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning terraform
+- 👀 I’m interested in new technologies
+- 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on any opensource project
 - 📫 Reach me on ae.amunugama@gmail.com
 
