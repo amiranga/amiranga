@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=amiranga&theme=nord" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Agentic AI, reasoning models, and related concepts**
 
 - 👯 I’m looking to collaborate on **any opensource project**
 
