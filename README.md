@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amila</h1>
-<h3 align="center">A Full Stack Developer From UAE</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=amiranga&theme=nord" alt="" /></a> </p>
 
