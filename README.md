@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any opensource project**
 
-- 💬 Ask me about **Java, Node, React, TypeScript, AI**
+- 💬 Ask me about **Java, Node, React, TypeScript, GenAI**
 
 - 📫 How to reach me **ae.amunuama@gmail.com**
 
