@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Java, Node, React, TypeScript, Python, AWS, Fintech & GenAI**
 
-- 📫 How to reach me **ae.amunuama@gmail.com**
-
 - 📄 Know about my experiences [click here](https://linkedin.com/in/amiranga)
 
 </br>
@@ -21,3 +19,6 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amila%20Amunugama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiranga)
+[![Instagram](https://img.shields.io/badge/Instagram-ami__ranga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ami_ranga)
+[![HackerRank](https://img.shields.io/badge/HackerRank-amiranga-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amiranga)
+[![Email](https://img.shields.io/badge/Email-ae.amunuama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ae.amunuama@gmail.com)
