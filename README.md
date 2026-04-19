@@ -1,14 +1,24 @@
 <h1 align="center">Hi 👋, I'm Amila</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Java+%7C+Node+%7C+React+%7C+Python+%7C+AWS+%7C+Fintech+%7C+GenAI;Always+learning+new+things&center=true&width=1000&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Node+%7C+Python+%7C+AWS+%7C+Fintech+%7C+GenAI;Always+learning+new+things&center=true&width=1000&height=50)](https://git.io/typing-svg)
 
-</br>
+<br/>
 
-<p align="center"> <a href="#"><img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=amiranga&theme=light" alt="" /></a> </p>
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=amiranga&theme=light" alt="GitHub trophies" />
+  </a>
+</p>
 
+<h3 align="center">Tech Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,nextjs,nestjs,ts,js,python,aws,azure,terraform,html,css,tailwind,wordpress" />
+  </a>
+</p>
 
+<h3 align="center">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amila%20Amunugama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amiranga)
 [![Instagram](https://img.shields.io/badge/Instagram-ami__ranga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ami_ranga)
