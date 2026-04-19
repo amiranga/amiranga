@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Java+%7C+Node+%7C+React+%7C+Python+%7C+AWS+%7C+Fintech+%7C+GenAI;Always+learning+new+things&center=true&width=1000&height=50)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Agentic AI, AI Regulation, AI-Driven Development Life Cycle (AI-DLC), and related concepts**
-
-- 👯 I’m looking to collaborate on **any project**
-
-- 💬 Ask me about **Java, Node, React, TypeScript, Python, AWS, Fintech & GenAI**
-
-- 📄 Know about my experiences [click here](https://linkedin.com/in/amiranga)
-
 </br>
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=amiranga&theme=light" alt="" /></a> </p>
